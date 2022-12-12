@@ -1,5 +1,7 @@
 ZSH=$HOME/.oh-my-zsh
 
+setopt HIST_IGNORE_SPACE
+
 # You can change the theme with another one from https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 ZSH_THEME="robbyrussell"
 
